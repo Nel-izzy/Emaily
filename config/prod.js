@@ -1,9 +1,3 @@
-module.exports = {
-    googleClientID : "",
-    googleClientSecret : "",
-    mongoURI : "",
-    cookieKey : ""
-}
 
 module.exports = {
     googleClientID : process.env.GOOGLE_CLIENT_ID,
